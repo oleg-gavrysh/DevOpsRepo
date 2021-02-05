@@ -23,5 +23,4 @@ services:
     image: mariadb
     container_name: mariadb
     restart: always
-    environment:
-      MYSQL_ROOT_PASSWORD: 123456
+
